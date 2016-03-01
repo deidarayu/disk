@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1455099729 source:c:\users\alick-h\desktop\disk\disk.cpp
+	<windows.h>
+	"bin.h"
+
+1455108321 c:\users\alick-h\desktop\disk\bin.h
+
+1455122042 source:c:\documents and settings\alick\桌面\disk\info.cpp
+	<windows.h>
+	<winsock.h>
+	<stdio.h>
+	<time.h>
+	<iostream>
+	"info.h"
+
+1455466632 source:c:\documents and settings\alick\桌面\disk\socket.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1455117293 c:\documents and settings\alick\桌面\disk\info.h
+
+1455115684 source:c:\documents and settings\alick\桌面\disk\md5.cpp
+	<string.h>
+	"md5.h"
+
+1455115768 c:\documents and settings\alick\桌面\disk\md5.h
+
+1455467764 source:c:\documents and settings\alick\桌面\disk\disk.cpp
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	<time.h>
+	"bin.h"
+	"md5.h"
+	"info.h"
+	"socket.h"
+
+1455467689 c:\documents and settings\alick\桌面\disk\bin.h
+
+1455463110 c:\documents and settings\alick\桌面\disk\socket.h
+
